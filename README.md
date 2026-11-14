@@ -15,9 +15,8 @@ It works with any color theme. The frost and the chrome are built from the activ
 The plugin needs no build step and no dependencies. The plugin folder **must be named `backdrop`**, because that's the ID in its manifest.
 
 1. In LearnHarness, open **Settings → Community plugins** and copy the plugins directory path.
-2. Get the plugin into a folder called `backdrop` there, either way:
-   - **Git:** `git clone https://github.com/prinxipia/learnharness-backdrop "<plugins directory>/backdrop"`
-   - **ZIP:** on this page choose **Code → Download ZIP**, extract it into the plugins directory, and rename the folder from `learnharness-backdrop-main` to `backdrop`.
+2. Download **backdrop.zip** from the [latest release](https://github.com/prinxipia/learnharness-backdrop/releases/latest) and extract it into the plugins directory. It already contains a correctly named `backdrop` folder.
+   - **Or with git:** `git clone https://github.com/prinxipia/learnharness-backdrop "<plugins directory>/backdrop"`
 3. Press refresh next to the path and enable **Backdrop**.
 4. Open **Settings → Backdrop**, press **Choose image**, and pick a PNG, JPEG or WebP (up to 25 MB). The plugin keeps its own copy, so you can move or delete the original.
 
