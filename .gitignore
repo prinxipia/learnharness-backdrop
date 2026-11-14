@@ -1,0 +1,3 @@
+# Your image and settings live here once installed; never commit them.
+data/
+.DS_Store

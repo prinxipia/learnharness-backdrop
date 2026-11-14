@@ -1,0 +1,11 @@
+{
+  "apiVersion": 1,
+  "id": "backdrop",
+  "name": "Backdrop",
+  "version": "0.1.0",
+  "minAppVersion": "0.6.1",
+  "description": "Your own image behind the whole app, with a frosted reading area and optional chrome-style controls. Works with any color theme.",
+  "main": "main.js",
+  "backend": "backend.cjs",
+  "styles": "styles.css"
+}
